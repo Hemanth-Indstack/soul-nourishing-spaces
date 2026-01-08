@@ -9,7 +9,7 @@ export default function Hero() {
       className="relative min-h-screen flex items-center justify-center bg-cover bg-center"
       style={{
         backgroundImage:
-          "url(https://lh3.googleusercontent.com/gg-dl/ABS2GSlvE4mVGkf-Qdvp5K7Xd8AI53WM68gMYfgWPCXeEAqvweXeIN0__PdvIyI4NI2bw_6I7o8dQ2qdSlQ0Aoba74IRdNqzjGZx9DHhnXHz4TjZptqCHxRgrZqF5dg7Evf8dc1qhY9hJg3R2v7l38CGHvV4Q_-ynC_iOSRLAWDcazmtrbUjEw=s1024-rj)",
+          "url(background.png)",
       }}
     >
       {/* Dark overlay */}
